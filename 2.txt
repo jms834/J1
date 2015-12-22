@@ -1,2 +1,4 @@
 HelloWorld
 Today is a good day.
+Add new Line.
+Fix bug from crash.
